@@ -11,4 +11,4 @@ sadece Login buttonunda command kodu aktiftir. Butona bastığınızda basit bir
 
 200x200 çözünürlükte ekranın tam ortasında başlatılacak şekilde ayarlanmıştır.
 
-![image](https://github.com/oguzhanyazman/tkinkter_LoginUI200x200_PY/assets/36090819/54c22bc7-2b68-4de6-948c-352faa44cbbb)
+![image](https://github.com/oguzhanyazman/tkinkter_LoginUI200x200_PY/assets/36090819/73c2b46a-ae89-4533-a02f-9fc69d7a1da6)
